@@ -1,0 +1,6 @@
+{
+  "mmseqs_clusters": 5504,
+  "final_groups": 5481,
+  "nonself_qualifying_directed_hits": 3983,
+  "policy": "Whole MMseqs clusters merged by exact duplicates and qualifying all-vs-all search hits. Search is heuristic, not exhaustive proof."
+}

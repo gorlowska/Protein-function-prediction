@@ -1,0 +1,21 @@
+{
+  "source_url": "https://current.geneontology.org/annotations/gaf/CANAL-uniprot.gaf.gz",
+  "resolved_url": "https://current.geneontology.org/annotations/gaf/CANAL-uniprot.gaf.gz",
+  "last_modified": "Sat, 08 Aug 2026 22:16:03 GMT",
+  "gaf_header": [
+    "!gaf-version: 2.2",
+    "!generated-by: UniProt",
+    "!date-generated: 2026-07-28 20:00",
+    "!go-version: http://purl.obolibrary.org/obo/go/releases/2026-07-26/extensions/go-plus.ofn"
+  ],
+  "annotation_rows": 67191,
+  "organism": {
+    "species": "Candida albicans",
+    "taxon_id": 5476,
+    "go_code": "CANAL"
+  },
+  "downloaded_at_utc": "2026-10-27T13:45:06.521828+00:00",
+  "sha256": "f2ab8066c46689211c42bac1d3ef6f22df2397544f6316124d831216e26f0f50",
+  "bytes": 1298969,
+  "python": "3.14.4"
+}

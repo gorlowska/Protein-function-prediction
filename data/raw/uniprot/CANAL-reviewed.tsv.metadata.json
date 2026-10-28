@@ -1,0 +1,20 @@
+{
+  "query": "(reviewed:true) AND (taxonomy_id:5476)",
+  "page_urls": [
+    "https://rest.uniprot.org/uniprotkb/search?query=%28reviewed%3Atrue%29+AND+%28taxonomy_id%3A5476%29&format=tsv&fields=accession%2Corganism_name%2Corganism_id%2Cgo_id%2Csequence&size=500",
+    "https://rest.uniprot.org/uniprotkb/search?format=tsv&fields=accession,organism_name,organism_id,go_id,sequence&query=%28reviewed%3Atrue%29%20AND%20%28taxonomy_id%3A5476%29&cursor=c9bacmxsqhkqgdvd1e68pj715ebc0415w5g6q&size=500",
+    "https://rest.uniprot.org/uniprotkb/search?format=tsv&fields=accession,organism_name,organism_id,go_id,sequence&query=%28reviewed%3Atrue%29%20AND%20%28taxonomy_id%3A5476%29&cursor=28m7xk8oeejl5mhhfxk05eer7p00ntjgj9zpwfs&size=500"
+  ],
+  "uniprot_release": "2026_03",
+  "uniprot_release_date": "02-September-2026",
+  "rows": 1466,
+  "organism": {
+    "species": "Candida albicans",
+    "taxon_id": 5476,
+    "go_code": "CANAL"
+  },
+  "downloaded_at_utc": "2026-10-27T13:45:11.511699+00:00",
+  "sha256": "9376a3241fb4671e5edaba02ad31707899185008d746673dfad91687743c3017",
+  "bytes": 971778,
+  "python": "3.14.4"
+}

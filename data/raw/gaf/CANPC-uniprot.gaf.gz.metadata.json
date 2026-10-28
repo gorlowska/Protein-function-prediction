@@ -1,0 +1,21 @@
+{
+  "source_url": "https://current.geneontology.org/annotations/gaf/CANPC-uniprot.gaf.gz",
+  "resolved_url": "https://current.geneontology.org/annotations/gaf/CANPC-uniprot.gaf.gz",
+  "last_modified": "Sat, 08 Aug 2026 22:16:14 GMT",
+  "gaf_header": [
+    "!gaf-version: 2.2",
+    "!generated-by: UniProt",
+    "!date-generated: 2026-07-28 19:57",
+    "!go-version: http://purl.obolibrary.org/obo/go/releases/2026-07-26/extensions/go-plus.ofn"
+  ],
+  "annotation_rows": 54142,
+  "organism": {
+    "species": "Candida parapsilosis",
+    "taxon_id": 5480,
+    "go_code": "CANPC"
+  },
+  "downloaded_at_utc": "2026-10-27T13:45:12.667477+00:00",
+  "sha256": "2931e0857ebbbc57fdaf9f91e4ab957f24a7f00f48d13ed8d24d50f273fb2831",
+  "bytes": 674638,
+  "python": "3.14.4"
+}

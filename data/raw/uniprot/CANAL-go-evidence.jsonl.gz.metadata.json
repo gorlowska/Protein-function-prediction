@@ -1,0 +1,14 @@
+{
+  "query": "(reviewed:true) AND (taxonomy_id:5476)",
+  "page_urls": [
+    "https://rest.uniprot.org/uniprotkb/search?query=%28reviewed%3Atrue%29+AND+%28taxonomy_id%3A5476%29&format=json&fields=accession%2Cgo_id&size=500",
+    "https://rest.uniprot.org/uniprotkb/search?format=json&fields=accession,go_id&query=%28reviewed%3Atrue%29%20AND%20%28taxonomy_id%3A5476%29&cursor=c9bacmxsqhkqgdvd1e68pj715ebc0415w5g6q&size=500",
+    "https://rest.uniprot.org/uniprotkb/search?format=json&fields=accession,go_id&query=%28reviewed%3Atrue%29%20AND%20%28taxonomy_id%3A5476%29&cursor=28m7xk8oeejl5mhhfxk05eer7p00ntjgj9zpwfs&size=500"
+  ],
+  "uniprot_release": "2026_03",
+  "rows": 1466,
+  "downloaded_at_utc": "2026-10-27T13:54:03.566742+00:00",
+  "sha256": "a5f6187924778475150104e470c1d6dcdba3234ff8040ccdee7a087ef19c83e4",
+  "bytes": 172610,
+  "python": "3.14.4"
+}

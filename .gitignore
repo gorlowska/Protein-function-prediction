@@ -1,0 +1,23 @@
+# Local environment and Python cache
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Downloaded executables and installation cache
+/tools/
+
+# Regenerated evidence audit and MMseqs2 working databases
+/data/interim/*
+!/data/interim/clusters_cluster.tsv
+!/data/interim/homology_audit.tsv
+
+# Local reports and temporary exports
+/reports/*.log
+/tmp/
+/output/
+*.part
+.env
+.env.*
+.DS_Store
+Thumbs.db

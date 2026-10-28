@@ -1,0 +1,9 @@
+{
+  "status": "passed",
+  "proteins": 6256,
+  "clusters": 5481,
+  "cross_split_cluster_count": 0,
+  "cross_split_exact_duplicate_count": 0,
+  "cross_split_qualifying_search_hits": 0,
+  "limitation": "MMseqs search is heuristic; zero detected cross-split hits is not an exhaustive pairwise guarantee."
+}

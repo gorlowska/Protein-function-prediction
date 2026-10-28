@@ -1,0 +1,17 @@
+{
+  "seed": 42,
+  "trials": 128,
+  "target_ratios": {
+    "train": 0.8,
+    "eval": 0.1,
+    "test": 0.1
+  },
+  "objective": "size + species balance; common-label balance within greedy trials; whole groups only",
+  "actual_fractions": {
+    "train": 0.800031969309463,
+    "eval": 0.09990409207161126,
+    "test": 0.10006393861892583
+  },
+  "unseen_GO_in_eval": 220,
+  "unseen_GO_in_test": 236
+}

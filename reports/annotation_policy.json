@@ -1,0 +1,26 @@
+{
+  "label_policy": "GO from UniProt; allowed evidence per protein-GO in UniProt or matching canonical/taxon GAF; exact GAF NOT conflicts excluded",
+  "evidence_codes": [
+    "EXP",
+    "IDA",
+    "IPI",
+    "IMP",
+    "IGI",
+    "IEP",
+    "HTP",
+    "HDA",
+    "HMP",
+    "HGI",
+    "HEP",
+    "TAS",
+    "IC"
+  ],
+  "gaf_rows": 258897,
+  "matching_canonical_taxon_gaf_rows": 153386,
+  "gaf_isoform_rows_excluded": 47,
+  "gaf_taxon_mismatch_rows_excluded": 0,
+  "not_conflicting_pairs": 8,
+  "retained_proteins": 6256,
+  "unique_GO_terms": 5265,
+  "selected_label_pairs": 39211
+}

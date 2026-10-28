@@ -1,0 +1,33 @@
+{
+  "query": "(reviewed:true) AND (taxonomy_id:4932)",
+  "page_urls": [
+    "https://rest.uniprot.org/uniprotkb/search?query=%28reviewed%3Atrue%29+AND+%28taxonomy_id%3A4932%29&format=tsv&fields=accession%2Corganism_name%2Corganism_id%2Cgo_id%2Csequence&size=500",
+    "https://rest.uniprot.org/uniprotkb/search?format=tsv&fields=accession,organism_name,organism_id,go_id,sequence&query=%28reviewed%3Atrue%29%20AND%20%28taxonomy_id%3A4932%29&cursor=c9bacmxsqhkqgdwa7g704d7irvnx3w5a2pp2t&size=500",
+    "https://rest.uniprot.org/uniprotkb/search?format=tsv&fields=accession,organism_name,organism_id,go_id,sequence&query=%28reviewed%3Atrue%29%20AND%20%28taxonomy_id%3A4932%29&cursor=28m7xk8oeejl5mhhi1jl0mo7hh6gnq1xqbmsuwp&size=500",
+    "https://rest.uniprot.org/uniprotkb/search?format=tsv&fields=accession,organism_name,organism_id,go_id,sequence&query=%28reviewed%3Atrue%29%20AND%20%28taxonomy_id%3A4932%29&cursor=28ndf240hnvwz75t5tuwqrned3dvrmunqqud8c8&size=500",
+    "https://rest.uniprot.org/uniprotkb/search?format=tsv&fields=accession,organism_name,organism_id,go_id,sequence&query=%28reviewed%3Atrue%29%20AND%20%28taxonomy_id%3A4932%29&cursor=2a980kt2mw2stfh9qbg0jsu5e342fetrvogbhgy&size=500",
+    "https://rest.uniprot.org/uniprotkb/search?format=tsv&fields=accession,organism_name,organism_id,go_id,sequence&query=%28reviewed%3Atrue%29%20AND%20%28taxonomy_id%3A4932%29&cursor=2aadi2oeq5f4n05le3rihe3dmuu0oq29v89ohf5&size=500",
+    "https://rest.uniprot.org/uniprotkb/search?format=tsv&fields=accession,organism_name,organism_id,go_id,sequence&query=%28reviewed%3Atrue%29%20AND%20%28taxonomy_id%3A4932%29&cursor=2bw83ldgvdm0h8h1ylerxzmh86sgsaraky1pf20&size=500",
+    "https://rest.uniprot.org/uniprotkb/search?format=tsv&fields=accession,organism_name,organism_id,go_id,sequence&query=%28reviewed%3Atrue%29%20AND%20%28taxonomy_id%3A4932%29&cursor=2bxdl38symycat5dlr69ul6ptl1pvcu33c7frsq&size=500",
+    "https://rest.uniprot.org/uniprotkb/search?format=tsv&fields=accession,organism_name,organism_id,go_id,sequence&query=%28reviewed%3Atrue%29%20AND%20%28taxonomy_id%3A4932%29&cursor=2dj86lxv3v5851gu68rt7e128zpcqdx0gw1ms8p&size=500",
+    "https://rest.uniprot.org/uniprotkb/search?format=tsv&fields=accession,organism_name,organism_id,go_id,sequence&query=%28reviewed%3Atrue%29%20AND%20%28taxonomy_id%3A4932%29&cursor=2dkdo3t774hjym55svs8l7ip2bvwiqmmzcow1tf&size=500",
+    "https://rest.uniprot.org/uniprotkb/search?format=tsv&fields=accession,organism_name,organism_id,go_id,sequence&query=%28reviewed%3Atrue%29%20AND%20%28taxonomy_id%3A4932%29&cursor=2f689mi9ccofsugmdddduewzg55snpc2gevwto1&size=500",
+    "https://rest.uniprot.org/uniprotkb/search?format=tsv&fields=accession,organism_name,organism_id,go_id,sequence&query=%28reviewed%3Atrue%29%20AND%20%28taxonomy_id%3A4932%29&cursor=2f7dr4dlfm0rmf4y0topz462y5y7idwqox08oc5&size=500",
+    "https://rest.uniprot.org/uniprotkb/search?format=tsv&fields=accession,organism_name,organism_id,go_id,sequence&query=%28reviewed%3Atrue%29%20AND%20%28taxonomy_id%3A4932%29&cursor=2gt8cn2nku7ngngeked05hv29qcdoog1vyfz510&size=500",
+    "https://rest.uniprot.org/uniprotkb/search?format=tsv&fields=accession,organism_name,organism_id,go_id,sequence&query=%28reviewed%3Atrue%29%20AND%20%28taxonomy_id%3A4932%29&cursor=2gudu4xzo3jza84q7w6hmeq3bjbeh2o89ag8y9l&size=500",
+    "https://rest.uniprot.org/uniprotkb/search?format=tsv&fields=accession,organism_name,organism_id,go_id,sequence&query=%28reviewed%3Atrue%29%20AND%20%28taxonomy_id%3A4932%29&cursor=2ig8fnn1tbqv4gg6ohaslsf1krl0u3gj6t3f054&size=500",
+    "https://rest.uniprot.org/uniprotkb/search?format=tsv&fields=accession,organism_name,organism_id,go_id,sequence&query=%28reviewed%3Atrue%29%20AND%20%28taxonomy_id%3A4932%29&cursor=2ihdx5idwl36y14ic9ktt70hkx954322dbszkai&size=500"
+  ],
+  "uniprot_release": "2026_03",
+  "uniprot_release_date": "02-September-2026",
+  "rows": 7919,
+  "organism": {
+    "species": "Saccharomyces cerevisiae",
+    "taxon_id": 4932,
+    "go_code": "YEAST"
+  },
+  "downloaded_at_utc": "2026-10-27T13:45:38.502509+00:00",
+  "sha256": "48fe15cf6daaeed6d00f1ebb57816f0a8e63983bd9a986e6078124d32e0cf33c",
+  "bytes": 4826451,
+  "python": "3.14.4"
+}

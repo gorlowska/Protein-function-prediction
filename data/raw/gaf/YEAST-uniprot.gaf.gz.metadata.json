@@ -1,0 +1,21 @@
+{
+  "source_url": "https://current.geneontology.org/annotations/gaf/YEAST-uniprot.gaf.gz",
+  "resolved_url": "https://current.geneontology.org/annotations/gaf/YEAST-uniprot.gaf.gz",
+  "last_modified": "Sat, 08 Aug 2026 22:16:15 GMT",
+  "gaf_header": [
+    "!gaf-version: 2.2",
+    "!generated-by: UniProt",
+    "!date-generated: 2026-07-28 19:51",
+    "!go-version: http://purl.obolibrary.org/obo/go/releases/2026-07-26/extensions/go-plus.ofn"
+  ],
+  "annotation_rows": 137564,
+  "organism": {
+    "species": "Saccharomyces cerevisiae",
+    "taxon_id": 4932,
+    "go_code": "YEAST"
+  },
+  "downloaded_at_utc": "2026-10-27T13:45:14.470658+00:00",
+  "sha256": "ff71c56535f12eaced63bfb36ff9dc215c30c191d155f438c90af1efa1e4eede",
+  "bytes": 2252992,
+  "python": "3.14.4"
+}

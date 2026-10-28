@@ -1,0 +1,27 @@
+{
+  "notebook": "meeting_02_data_preparation.ipynb",
+  "language": "English",
+  "seed": 42,
+  "split_trials": 128,
+  "python": "3.14.4",
+  "packages": {
+    "pandas": "3.1.0",
+    "numpy": "2.5.4",
+    "matplotlib": "3.11.2",
+    "requests": "2.34.2"
+  },
+  "source_module_sha256": {
+    "src/data_loading.py": "b31ccb21f60787b96f59c00502b274b51bcc12d1876fbd70137e653b74bdd450",
+    "src/meeting2_preparation.py": "8ef9d845aab7bebb6fa5a5312a7b771aba82aba1e9288b454413e717bd4461d3"
+  },
+  "validation": {
+    "status": "passed",
+    "proteins": 6256,
+    "clusters": 5481,
+    "cross_split_cluster_count": 0,
+    "cross_split_exact_duplicate_count": 0,
+    "cross_split_qualifying_search_hits": 0,
+    "limitation": "MMseqs search is heuristic; zero detected cross-split hits is not an exhaustive pairwise guarantee."
+  },
+  "additional_sequence_and_vocabulary_checks": "passed"
+}

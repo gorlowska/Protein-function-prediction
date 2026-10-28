@@ -1,0 +1,4 @@
+species,train,eval,test
+Candida albicans,564,70,70
+Candida parapsilosis,7,1,1
+Saccharomyces cerevisiae,4434,554,555

@@ -1,0 +1,23 @@
+	Command being timed: "/home/sehruz/projekty/semestr9/BioInformatics/Protein-function-prediction/tools/mmseqs/bin/mmseqs easy-search /home/sehruz/projekty/semestr9/BioInformatics/Protein-function-prediction/data/processed/proteins.fasta /home/sehruz/projekty/semestr9/BioInformatics/Protein-function-prediction/data/processed/proteins.fasta /home/sehruz/projekty/semestr9/BioInformatics/Protein-function-prediction/data/interim/homology_audit.tsv /home/sehruz/projekty/semestr9/BioInformatics/Protein-function-prediction/data/interim/mmseqs_tmp/homology_audit --min-seq-id 0.5 -c 0.8 --cov-mode 0 --alignment-mode 3 --threads 2 --split-memory-limit 2G --format-output query,target,fident,qcov,tcov --max-seqs 20000 -s 7.5"
+	User time (seconds): 386.33
+	System time (seconds): 1.20
+	Percent of CPU this job got: 197%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:16.27
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 927488
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 249985
+	Voluntary context switches: 67
+	Involuntary context switches: 729
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 47600
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

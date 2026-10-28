@@ -1,0 +1,4 @@
+species,reviewed_proteins,with_GO_in_UniProt,GAF_rows,reviewed_with_any_GAF,reviewed_with_allowed_positive_GAF,median_length
+Candida albicans,1466,1458,67191,1192,678,442.5
+Candida parapsilosis,23,23,54142,7,7,281.0
+Saccharomyces cerevisiae,7919,7204,137564,6057,5513,361.0

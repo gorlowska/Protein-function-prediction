@@ -1,0 +1,23 @@
+	Command being timed: "/home/sehruz/projekty/semestr9/BioInformatics/Protein-function-prediction/tools/mmseqs/bin/mmseqs easy-cluster /home/sehruz/projekty/semestr9/BioInformatics/Protein-function-prediction/data/processed/proteins.fasta /home/sehruz/projekty/semestr9/BioInformatics/Protein-function-prediction/data/interim/clusters /home/sehruz/projekty/semestr9/BioInformatics/Protein-function-prediction/data/interim/mmseqs_tmp/clusters --min-seq-id 0.5 -c 0.8 --cov-mode 0 --alignment-mode 3 --threads 2 --split-memory-limit 2G --cluster-reassign 1"
+	User time (seconds): 43.73
+	System time (seconds): 5.66
+	Percent of CPU this job got: 161%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:30.50
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 906624
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 28
+	Minor (reclaiming a frame) page faults: 967383
+	Voluntary context switches: 7107
+	Involuntary context switches: 164
+	Swaps: 0
+	File system inputs: 3816
+	File system outputs: 56472
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

@@ -1,0 +1,8 @@
+{
+  "file": "data/processed/clusters.tsv",
+  "change": "Sort rows by protein_id for deterministic exports",
+  "original_sha256": "11ef6433d995727de7fa08cb76788488b93f5560fbed36511a2f3eb466788df0",
+  "normalized_sha256": "8063641d68cbbfd303e85da37d2d8ef1c7c92b200d2a5a95e4d7aa2f9b874392",
+  "cluster_memberships_unchanged": true,
+  "all_other_dataset_files_unchanged": true
+}

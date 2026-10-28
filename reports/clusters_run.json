@@ -1,0 +1,27 @@
+{
+  "mmseqs_version": "503743960fc57733a36951f5fa803cb3389af7e2",
+  "command": [
+    "/home/sehruz/projekty/semestr9/BioInformatics/Protein-function-prediction/tools/mmseqs/bin/mmseqs",
+    "easy-cluster",
+    "/home/sehruz/projekty/semestr9/BioInformatics/Protein-function-prediction/data/processed/proteins.fasta",
+    "/home/sehruz/projekty/semestr9/BioInformatics/Protein-function-prediction/data/interim/clusters",
+    "/home/sehruz/projekty/semestr9/BioInformatics/Protein-function-prediction/data/interim/mmseqs_tmp/clusters",
+    "--min-seq-id",
+    "0.5",
+    "-c",
+    "0.8",
+    "--cov-mode",
+    "0",
+    "--alignment-mode",
+    "3",
+    "--threads",
+    "2",
+    "--split-memory-limit",
+    "2G",
+    "--cluster-reassign",
+    "1"
+  ],
+  "input_sha256": "687c8d83668d534329edbaf6a017e81d1e3d4292f8fe21ee006fd460a8518e8b",
+  "elapsed_seconds": 30.508329153060913,
+  "output_sha256": "949d33aefcececd3dd489dae52176f65be205b2e1fffa43556ff286c7a858a30"
+}

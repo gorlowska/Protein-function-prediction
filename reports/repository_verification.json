@@ -1,0 +1,18 @@
+{
+  "status": "passed",
+  "checked_at_utc": "2026-10-28T08:59:29.244064+00:00",
+  "python": "3.14.4",
+  "executed_code_cells": 14,
+  "dataset_unchanged": true,
+  "dataset_verification": {
+    "status": "passed",
+    "verified_files": 32,
+    "proteins": 6256,
+    "label_pairs": 39211,
+    "split_counts": {
+      "eval": 625,
+      "test": 626,
+      "train": 5005
+    }
+  }
+}
