@@ -115,3 +115,21 @@ from reference annotations.
 
 The supplied repository LICENSE is retained. Public source data and third-party
 tools retain their upstream provenance; see `docs/DATA_SOURCES.md`.
+
+## Meeting 3: end-to-end skeleton
+
+A working pipeline, not a meaningful model:
+FASTA -> one-hot encoding + mask -> one dummy PyTorch model per ontology -> CSV.
+
+```bash
+mkdir -p data/vocab output
+python src/pfp/vocab.py
+python src/pfp/predict.py --fasta data/processed/splits/test.fasta --out output/predictions_test.csv
+```
+
+| File | Role |
+|---|---|
+| `src/pfp/vocab.py` | Splits the training GO vocabulary into BP (2505), MF (1607), CC (720) |
+| `src/pfp/data.py` | Reads FASTA with `skbio.io.read()`, encodes `(B, 22, 1024)` + mask `(B, 1024)` |
+| `src/pfp/models.py` | `DummyGOModel`: `forward(x, mask)` returns random scores `(B, P)` |
+| `src/pfp/predict.py` | Runs the pipeline and writes `ProteinID,GOterm,Score` |git
