@@ -132,4 +132,4 @@ python src/pfp/predict.py --fasta data/processed/splits/test.fasta --out output/
 | `src/pfp/vocab.py` | Splits the training GO vocabulary into BP (2505), MF (1607), CC (720) |
 | `src/pfp/data.py` | Reads FASTA with `skbio.io.read()`, encodes `(B, 22, 1024)` + mask `(B, 1024)` |
 | `src/pfp/models.py` | `DummyGOModel`: `forward(x, mask)` returns random scores `(B, P)` |
-| `src/pfp/predict.py` | Runs the pipeline and writes `ProteinID,GOterm,Score` |git
+| `src/pfp/predict.py` | Runs the pipeline and writes `ProteinID,GOterm,Score` |
